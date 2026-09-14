@@ -12,20 +12,20 @@ Software Developer focused on **Java**, **Logic**, and **Software Engineering**.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Core Skills & Technologies
 
-**Languages:**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Tools & Environment:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Apache NetBeans](https://img.shields.io/badge/Apache_NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+<p align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,cpp,git,github,vscode,windows" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Alejandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandrop-dev&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandrop-dev&layout=compact&theme=dark)
+
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alejandrop-dev&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=alejandrop-dev&layout=compact&theme=dark" alt="Top Languages" />
+</p>
