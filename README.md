@@ -1,3 +1,4 @@
+![Banner](./UMA_AgnesTachyon.jpeg)
 # Hi there, I'm Alejandro 👋
 
 Software Developer focused on **Java**, **Logic**, and **Software Engineering**. Constantly learning, building clean code, and expanding my stack towards Backend Development.
